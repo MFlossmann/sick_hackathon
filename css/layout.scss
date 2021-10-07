@@ -67,3 +67,20 @@
 .reveal .justify-start { justify-content: flex-start; }
 .reveal .justify-center { justify-content: center; }
 .reveal .justify-end { justify-content: flex-end; }
+
+
+// own stuff
+#bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+ul {
+ vertical-align: middle;
+ display: table-cell;
+}
+
+li {
+//    display : inline-block;
+}
